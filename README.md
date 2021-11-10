@@ -1,2 +1,14 @@
 # Pitch
 A web application that allows users to submit pitches based on different categories
+## Author
+Ferdinand Kiplangat
+## Description
+This is a flask application that allows users to pitch anything based on the categories. Categories can be added by the user or they can pitch from the available ones. A user as well can comment on a pitch of other users and can also like or dislike a pitch. A user must log in for him/her to be able to do this.
+## Setup Requirements
+* Web Browser
+* Internet Connection
+* Flask 1.1.2
+* Python 3.8
+* Terminal
+
+
