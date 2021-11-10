@@ -21,5 +21,7 @@ https://github.com/feddykip/Pitch.git
 * HTML & CSS
 ### Live Site
 View [live](https://feddy-1-minute.herokuapp.com/)
-
+### License
+This project is under:  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
 
