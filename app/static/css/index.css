@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+body{
+background-color: aliceblue;
+color: black;
+
+}
+h2,h3{
+    font-family: 'Yeseva One', cursive;
+    
+    font-weight: bold;
+}
+
+#nav{
+    background-color:rgb(rgb(127, 176, 199));
+}
