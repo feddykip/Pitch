@@ -10,5 +10,14 @@ This is a flask application that allows users to pitch anything based on the cat
 * Flask 1.1.2
 * Python 3.8
 * Terminal
+## Installation
+Git clone this repo in your computer's terminal, then cd into the you cloned:
+https://github.com/feddykip/Pitch.git
+
+## Technologies Used
+* Python
+* Flask
+* Bootstrap
+* HTML & CSS
 
 
