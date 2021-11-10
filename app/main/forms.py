@@ -5,7 +5,7 @@ from ..models import User
 
 class PitchForm(FlaskForm):
     title = StringField('Pitch Title')
-    category = SelectField(u'Pitch Categories', choices=[('Product', 'Product'), ('Adverts', 'Adverts'),('Interview', 'Interview')])
+    category = SelectField(u'Pitch Categories', choices=[('Product', 'Product'), ('Adverts', 'Adverts'),('Investment', 'Investment')])
     pitch = TextAreaField('Pitch')
     submit = SubmitField('Submit')
     
